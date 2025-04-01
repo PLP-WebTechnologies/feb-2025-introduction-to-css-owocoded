@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(49, 71, 4);
+    font: 1em sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#h1{
+    color: rgb(14, 244, 14);
+    margin-bottom: 10px;
+}
+.add{
+    margin-bottom: 10px;
+}
